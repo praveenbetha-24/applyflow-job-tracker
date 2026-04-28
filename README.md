@@ -60,10 +60,10 @@ Make sure you have **Node.js** installed on your system.
 
 ```bash
 # Clone the repository
-git clone https://github.com/praveenbetha-24/applyflow.git
+git clone https://github.com/praveenbetha-24/applyflow-job-tracker.git
 
 # Navigate into the project folder
-cd applyflow
+cd applyflow-job-tracker
 
 # Install dependencies
 npm install
