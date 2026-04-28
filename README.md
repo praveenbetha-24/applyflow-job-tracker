@@ -49,7 +49,7 @@ Clean and user-friendly interface
 
 - Job Search Page  
 - Saved Jobs  
-- Kanban Tracker  
+- Kanban Tracker
 - Analytics Dashboard  
 
 ---
@@ -60,7 +60,7 @@ Make sure you have **Node.js** installed on your system.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/applyflow.git
+git clone https://github.com/praveenbetha-24/applyflow.git
 
 # Navigate into the project folder
 cd applyflow
